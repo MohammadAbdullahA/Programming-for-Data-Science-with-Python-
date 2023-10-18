@@ -12,9 +12,9 @@ In this project, I used SQL to explore the Sakila movie database. After the expl
 [Check the project details by clicking on this link.](https://github.com/MohammadAbdullahA/Programming-for-Data-Science-with-Python-/tree/master/Python%20Project)
 ### Overview:
 In this project, I used Python to explore the data related to the bike share system in three major cities in the United States, which are:
- - Chicago
- - New York City
- - Washington
+- Chicago
+- New York City
+- Washington
 
 Basically, I wrote a code to import the data from CSV files and answered interesting questions about the dataset by computing descriptive statistics. In addition, I wrote a script that takes in raw input to create an interactive experience and made sure that the program is case-insensitive.
 
