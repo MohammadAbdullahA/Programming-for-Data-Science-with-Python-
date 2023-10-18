@@ -1,4 +1,4 @@
-## Breif Introduction
+## Brief Introduction
 
 
 ## Project 1: 
